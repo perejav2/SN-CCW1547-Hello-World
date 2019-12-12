@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Hello World">573a587bdb21001021a72fb7489619b2</application>
+        <filter/>
+        <name>Hello World Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_38066_hello_worl.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-12 18:04:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d73a587bdb21001021a72fb7489619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hello World Table</sys_name>
+        <sys_package display_value="Hello World" source="x_38066_hello_worl">663a90f7db21001021a72fb748961959</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">663a90f7db21001021a72fb748961959</sys_scope>
+        <sys_update_name>sys_ui_module_d73a587bdb21001021a72fb7489619b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-12 18:04:29</sys_updated_on>
+        <table>x_38066_hello_worl_x_38066_hello_world_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
